@@ -1,2 +1,2 @@
-*.csv
-*Answer.R
+01_ReviewSession/*.csv
+01_ReviewSession/Answer.R
